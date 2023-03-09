@@ -4,7 +4,7 @@
  * @Author: yangxing
  * @Date: 2023-03-08 17:11:13
  * @LastEditors: yangxing
- * @LastEditTime: 2023-03-09 12:17:20
+ * @LastEditTime: 2023-03-09 12:27:21
  */
 // 将同一个字母的值归类成一组
 // function toAgroup(key, obj) {
@@ -76,7 +76,7 @@
 // foo()
 // foo()
 // foo()
-console.log("hot-fix");
+console.log("master");
 
 
 // 防抖
