@@ -4,7 +4,7 @@
  * @Author: yangxing
  * @Date: 2023-03-08 17:11:13
  * @LastEditors: yangxing
- * @LastEditTime: 2023-03-09 11:29:09
+ * @LastEditTime: 2023-03-09 11:31:03
  */
 // 将同一个字母的值归类成一组
 // function toAgroup(key, obj) {
@@ -79,6 +79,7 @@
 console.log("省廊坊计算机复试的开发");
 console.log("省廊坊计算机复试的开发");
 console.log("省廊坊计算机复试的开发");
+2222
 
 
 // 防抖
